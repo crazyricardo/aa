@@ -1,542 +1,676 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/465495/20251013.html">
-<channel id="465495">
+<channel id="WARNER CHANNEL">
 <display-name lang="Brazil">Warner Channel</display-name>
 <icon src=""/>
 </channel>
-<programme channel="465495" start="20251013000100 +0000" stop="20251013002500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013000100 +0000" stop="20251013002500 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013002500 +0000" stop="20251013004800 +0000">
+<programme channel="WARNER CHANNEL" start="20251013002500 +0000" stop="20251013004800 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013004800 +0000" stop="20251013010700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013004800 +0000" stop="20251013010700 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013010700 +0000" stop="20251013013000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013010700 +0000" stop="20251013013000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013013000 +0000" stop="20251013033500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013013000 +0000" stop="20251013033500 +0000">
 <title lang="pt">A Família Mitchell e a Revolta das Máquinas</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013033500 +0000" stop="20251013035800 +0000">
+<programme channel="WARNER CHANNEL" start="20251013033500 +0000" stop="20251013035800 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013035800 +0000" stop="20251013041900 +0000">
+<programme channel="WARNER CHANNEL" start="20251013035800 +0000" stop="20251013041900 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013041900 +0000" stop="20251013043900 +0000">
+<programme channel="WARNER CHANNEL" start="20251013041900 +0000" stop="20251013043900 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013043900 +0000" stop="20251013050100 +0000">
+<programme channel="WARNER CHANNEL" start="20251013043900 +0000" stop="20251013050100 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013050100 +0000" stop="20251013052200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013050100 +0000" stop="20251013052200 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013052200 +0000" stop="20251013054200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013052200 +0000" stop="20251013054200 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013054200 +0000" stop="20251013060400 +0000">
+<programme channel="WARNER CHANNEL" start="20251013054200 +0000" stop="20251013060400 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013060400 +0000" stop="20251013062700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013060400 +0000" stop="20251013062700 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013062700 +0000" stop="20251013065000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013062700 +0000" stop="20251013065000 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013065000 +0000" stop="20251013071000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013065000 +0000" stop="20251013071000 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013071000 +0000" stop="20251013073100 +0000">
+<programme channel="WARNER CHANNEL" start="20251013071000 +0000" stop="20251013073100 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013073100 +0000" stop="20251013090000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013073100 +0000" stop="20251013090000 +0000">
 <title lang="pt">Encontrados</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013090000 +0000" stop="20251013094300 +0000">
+<programme channel="WARNER CHANNEL" start="20251013090000 +0000" stop="20251013094300 +0000">
 <title lang="pt">Encontrados</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013094300 +0000" stop="20251013100500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013094300 +0000" stop="20251013100500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013100500 +0000" stop="20251013103000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013100500 +0000" stop="20251013103000 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013103000 +0000" stop="20251013105400 +0000">
+<programme channel="WARNER CHANNEL" start="20251013103000 +0000" stop="20251013105400 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013105400 +0000" stop="20251013111400 +0000">
+<programme channel="WARNER CHANNEL" start="20251013105400 +0000" stop="20251013111400 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013111400 +0000" stop="20251013113700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013111400 +0000" stop="20251013113700 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013113700 +0000" stop="20251013120100 +0000">
+<programme channel="WARNER CHANNEL" start="20251013113700 +0000" stop="20251013120100 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013120100 +0000" stop="20251013124500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013120100 +0000" stop="20251013124500 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013124500 +0000" stop="20251013133000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013124500 +0000" stop="20251013133000 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013133000 +0000" stop="20251013135200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013133000 +0000" stop="20251013135200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013135200 +0000" stop="20251013141200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013135200 +0000" stop="20251013141200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013141200 +0000" stop="20251013143400 +0000">
+<programme channel="WARNER CHANNEL" start="20251013141200 +0000" stop="20251013143400 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013143400 +0000" stop="20251013145700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013143400 +0000" stop="20251013145700 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013145700 +0000" stop="20251013151900 +0000">
+<programme channel="WARNER CHANNEL" start="20251013145700 +0000" stop="20251013151900 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013151900 +0000" stop="20251013154000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013151900 +0000" stop="20251013154000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013154000 +0000" stop="20251013160300 +0000">
+<programme channel="WARNER CHANNEL" start="20251013154000 +0000" stop="20251013160300 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013160300 +0000" stop="20251013162700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013160300 +0000" stop="20251013162700 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013162700 +0000" stop="20251013165200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013162700 +0000" stop="20251013165200 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013165200 +0000" stop="20251013171200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013165200 +0000" stop="20251013171200 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013171200 +0000" stop="20251013173500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013171200 +0000" stop="20251013173500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013173500 +0000" stop="20251013180000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013173500 +0000" stop="20251013180000 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013180000 +0000" stop="20251013182500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013180000 +0000" stop="20251013182500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013182500 +0000" stop="20251013184700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013182500 +0000" stop="20251013184700 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013184700 +0000" stop="20251013190800 +0000">
+<programme channel="WARNER CHANNEL" start="20251013184700 +0000" stop="20251013190800 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013190800 +0000" stop="20251013193300 +0000">
+<programme channel="WARNER CHANNEL" start="20251013190800 +0000" stop="20251013193300 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013193300 +0000" stop="20251013201500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013193300 +0000" stop="20251013201500 +0000">
 <title lang="pt">Cobra Kai</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013201500 +0000" stop="20251013205900 +0000">
+<programme channel="WARNER CHANNEL" start="20251013201500 +0000" stop="20251013205900 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013205900 +0000" stop="20251013214400 +0000">
+<programme channel="WARNER CHANNEL" start="20251013205900 +0000" stop="20251013214400 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013214400 +0000" stop="20251013220500 +0000">
+<programme channel="WARNER CHANNEL" start="20251013214400 +0000" stop="20251013220500 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013220500 +0000" stop="20251013222800 +0000">
+<programme channel="WARNER CHANNEL" start="20251013220500 +0000" stop="20251013222800 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013222800 +0000" stop="20251013225200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013222800 +0000" stop="20251013225200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013225200 +0000" stop="20251013231200 +0000">
+<programme channel="WARNER CHANNEL" start="20251013225200 +0000" stop="20251013231200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013231200 +0000" stop="20251013233300 +0000">
+<programme channel="WARNER CHANNEL" start="20251013231200 +0000" stop="20251013233300 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013233300 +0000" stop="20251013235700 +0000">
+<programme channel="WARNER CHANNEL" start="20251013233300 +0000" stop="20251013235700 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251013235700 +0000" stop="20251014000000 +0000">
+<programme channel="WARNER CHANNEL" start="20251013235700 +0000" stop="20251014000000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-13</date>
 </programme>
-<programme channel="465495" start="20251014002100 +0000" stop="20251014004300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014002100 +0000" stop="20251014004300 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014004300 +0000" stop="20251014010600 +0000">
+<programme channel="WARNER CHANNEL" start="20251014004300 +0000" stop="20251014010600 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014010600 +0000" stop="20251014013000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014010600 +0000" stop="20251014013000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014013000 +0000" stop="20251014015400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014013000 +0000" stop="20251014015400 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014015400 +0000" stop="20251014021700 +0000">
+<programme channel="WARNER CHANNEL" start="20251014015400 +0000" stop="20251014021700 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014021700 +0000" stop="20251014023800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014021700 +0000" stop="20251014023800 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014023800 +0000" stop="20251014030100 +0000">
+<programme channel="WARNER CHANNEL" start="20251014023800 +0000" stop="20251014030100 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014030100 +0000" stop="20251014032500 +0000">
+<programme channel="WARNER CHANNEL" start="20251014030100 +0000" stop="20251014032500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014032500 +0000" stop="20251014034900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014032500 +0000" stop="20251014034900 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014034900 +0000" stop="20251014040700 +0000">
+<programme channel="WARNER CHANNEL" start="20251014034900 +0000" stop="20251014040700 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014040700 +0000" stop="20251014043100 +0000">
+<programme channel="WARNER CHANNEL" start="20251014040700 +0000" stop="20251014043100 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014043100 +0000" stop="20251014045400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014043100 +0000" stop="20251014045400 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014045400 +0000" stop="20251014051400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014045400 +0000" stop="20251014051400 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014051400 +0000" stop="20251014053600 +0000">
+<programme channel="WARNER CHANNEL" start="20251014051400 +0000" stop="20251014053600 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014053600 +0000" stop="20251014055800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014053600 +0000" stop="20251014055800 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014055800 +0000" stop="20251014062300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014055800 +0000" stop="20251014062300 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014062300 +0000" stop="20251014064800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014062300 +0000" stop="20251014064800 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014064800 +0000" stop="20251014073000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014064800 +0000" stop="20251014073000 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014073000 +0000" stop="20251014081400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014073000 +0000" stop="20251014081400 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014081400 +0000" stop="20251014090000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014081400 +0000" stop="20251014090000 +0000">
 <title lang="pt">Encontrados</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014090000 +0000" stop="20251014095000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014090000 +0000" stop="20251014095000 +0000">
 <title lang="pt">Encontrados</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014095000 +0000" stop="20251014101300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014095000 +0000" stop="20251014101300 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014101300 +0000" stop="20251014103500 +0000">
+<programme channel="WARNER CHANNEL" start="20251014101300 +0000" stop="20251014103500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014103500 +0000" stop="20251014105900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014103500 +0000" stop="20251014105900 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014105900 +0000" stop="20251014112300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014105900 +0000" stop="20251014112300 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014112300 +0000" stop="20251014114500 +0000">
+<programme channel="WARNER CHANNEL" start="20251014112300 +0000" stop="20251014114500 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014114500 +0000" stop="20251014120800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014114500 +0000" stop="20251014120800 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014120800 +0000" stop="20251014125400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014120800 +0000" stop="20251014125400 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014125400 +0000" stop="20251014133700 +0000">
+<programme channel="WARNER CHANNEL" start="20251014125400 +0000" stop="20251014133700 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014133700 +0000" stop="20251014135900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014133700 +0000" stop="20251014135900 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014135900 +0000" stop="20251014142100 +0000">
+<programme channel="WARNER CHANNEL" start="20251014135900 +0000" stop="20251014142100 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014142100 +0000" stop="20251014143900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014142100 +0000" stop="20251014143900 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014143900 +0000" stop="20251014150200 +0000">
+<programme channel="WARNER CHANNEL" start="20251014143900 +0000" stop="20251014150200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014150200 +0000" stop="20251014152500 +0000">
+<programme channel="WARNER CHANNEL" start="20251014150200 +0000" stop="20251014152500 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014152500 +0000" stop="20251014154900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014152500 +0000" stop="20251014154900 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014154900 +0000" stop="20251014160800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014154900 +0000" stop="20251014160800 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014160800 +0000" stop="20251014163200 +0000">
+<programme channel="WARNER CHANNEL" start="20251014160800 +0000" stop="20251014163200 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014163200 +0000" stop="20251014165600 +0000">
+<programme channel="WARNER CHANNEL" start="20251014163200 +0000" stop="20251014165600 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014165600 +0000" stop="20251014172000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014165600 +0000" stop="20251014172000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014172000 +0000" stop="20251014174300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014172000 +0000" stop="20251014174300 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014174300 +0000" stop="20251014180600 +0000">
+<programme channel="WARNER CHANNEL" start="20251014174300 +0000" stop="20251014180600 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014180600 +0000" stop="20251014183100 +0000">
+<programme channel="WARNER CHANNEL" start="20251014180600 +0000" stop="20251014183100 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014183100 +0000" stop="20251014185600 +0000">
+<programme channel="WARNER CHANNEL" start="20251014183100 +0000" stop="20251014185600 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014185600 +0000" stop="20251014192000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014185600 +0000" stop="20251014192000 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014192000 +0000" stop="20251014194300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014192000 +0000" stop="20251014194300 +0000">
 <title lang="pt">Two and a Half Men</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014194300 +0000" stop="20251014202000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014194300 +0000" stop="20251014202000 +0000">
 <title lang="pt">Cobra Kai</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014202000 +0000" stop="20251014210300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014202000 +0000" stop="20251014210300 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014210300 +0000" stop="20251014215000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014210300 +0000" stop="20251014215000 +0000">
 <title lang="pt">The Vampire Diaries</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014215000 +0000" stop="20251014220900 +0000">
+<programme channel="WARNER CHANNEL" start="20251014215000 +0000" stop="20251014220900 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014220900 +0000" stop="20251014223100 +0000">
+<programme channel="WARNER CHANNEL" start="20251014220900 +0000" stop="20251014223100 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014223100 +0000" stop="20251014225300 +0000">
+<programme channel="WARNER CHANNEL" start="20251014223100 +0000" stop="20251014225300 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014225300 +0000" stop="20251014231200 +0000">
+<programme channel="WARNER CHANNEL" start="20251014225300 +0000" stop="20251014231200 +0000">
 <title lang="pt">Young Sheldon</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014231200 +0000" stop="20251014233400 +0000">
+<programme channel="WARNER CHANNEL" start="20251014231200 +0000" stop="20251014233400 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014233400 +0000" stop="20251014235800 +0000">
+<programme channel="WARNER CHANNEL" start="20251014233400 +0000" stop="20251014235800 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
 </programme>
-<programme channel="465495" start="20251014235800 +0000" stop="20251015000000 +0000">
+<programme channel="WARNER CHANNEL" start="20251014235800 +0000" stop="20251015000000 +0000">
 <title lang="pt">The Big Bang Theory</title>
 <desc/>
 <date>2025-10-14</date>
+</programme>
+<channel id="Telecine Action HD">
+<display-name lang="Brazil">Telecine Action</display-name>
+<icon src=""/>
+</channel>
+<programme channel="Telecine Action HD" start="20251014010000 +0000" stop="20251014034000 +0000">
+<title lang="pt">Filme Para Sentir - Nostálgico: Gladiador</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014034000 +0000" stop="20251014051500 +0000">
+<title lang="pt">João E Maria: Caçadores De Bruxas</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014051500 +0000" stop="20251014065500 +0000">
+<title lang="pt">Brincadeira Mortal</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014065500 +0000" stop="20251014083500 +0000">
+<title lang="pt">Jogue ou Morra</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014083500 +0000" stop="20251014101500 +0000">
+<title lang="pt">Na Rota do Tráfico</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014101500 +0000" stop="20251014115000 +0000">
+<title lang="pt">Pânico nas Alturas</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014115000 +0000" stop="20251014132000 +0000">
+<title lang="pt">Passageiro 666</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014132000 +0000" stop="20251014152500 +0000">
+<title lang="pt">Dupla Explosiva</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014152500 +0000" stop="20251014171500 +0000">
+<title lang="pt">Mortal</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014171500 +0000" stop="20251014193500 +0000">
+<title lang="pt">Batman Begins</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014193500 +0000" stop="20251014212500 +0000">
+<title lang="pt">A Força Em Alerta 2</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014212500 +0000" stop="20251014213000 +0000">
+<title lang="pt">Preview No Action</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014213000 +0000" stop="20251014231500 +0000">
+<title lang="pt">O Silêncio da Chuva</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251014231500 +0000" stop="20251015000000 +0000">
+<title lang="pt">Os Mercenários 4</title>
+<desc/>
+<date>2025-10-14</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015010000 +0000" stop="20251015025500 +0000">
+<title lang="pt">Assassin's Creed</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015025500 +0000" stop="20251015043500 +0000">
+<title lang="pt">Caça Às Bruxas</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015043500 +0000" stop="20251015063500 +0000">
+<title lang="pt">Refém</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015063500 +0000" stop="20251015083500 +0000">
+<title lang="pt">Ascensão E Queda De Um Império</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015083500 +0000" stop="20251015105500 +0000">
+<title lang="pt">Bacurau</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015105500 +0000" stop="20251015124000 +0000">
+<title lang="pt">Carga Explosiva - O Legado</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015124000 +0000" stop="20251015143000 +0000">
+<title lang="pt">Medida Provisória</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015143000 +0000" stop="20251015161500 +0000">
+<title lang="pt">Rambo: Até o Fim</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015161500 +0000" stop="20251015182500 +0000">
+<title lang="pt">Missão: Impossível 2</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015182500 +0000" stop="20251015201500 +0000">
+<title lang="pt">Ajuste de Contas (2019)</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015201500 +0000" stop="20251015223000 +0000">
+<title lang="pt">Medusa</title>
+<desc/>
+<date>2025-10-15</date>
+</programme>
+<programme channel="Telecine Action HD" start="20251015223000 +0000" stop="20251016000000 +0000">
+<title lang="pt">O Homem De Aço</title>
+<desc/>
+<date>2025-10-15</date>
 </programme>
 </tv>
