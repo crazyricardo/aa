@@ -1,7 +1,18 @@
 <tv generator-info-name="epg.pw">
+	<channel id="ESPN">
+		<display-name lang="Brazil">ESPN</display-name>
+	</channel>
 	<channel id="WARNER CHANNEL">
 		<display-name lang="Brazil">São Paulo/SP Warner Channel</display-name>
 	</channel>
+	<channel id="GLOBO">
+		<display-name lang="Brazil">Globo</display-name>
+	</channel>
+	<programme channel="GLOBO" start="20251015002000 +0000" stop="20251015012500 +0000">
+		<title lang="pt">Vale Tudo</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015002200 +0000" stop="20251015004300 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Raj e Howard colocam o perfil de Sheldon na internet para ajudá-lo a conseguir um encontro.</desc>
@@ -12,9 +23,19 @@
 		<desc lang="pt">Howard usa uma arma robótica para seu prazer. Penny ajuda Sheldon em seu primeiro encontro.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015010000 +0000" stop="20251015020000 +0000">
+		<title lang="pt">Bola da Vez: Tamara Klink</title>
+		<desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015010600 +0000" stop="20251015013000 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Sheldon percebe que quando finalmente conseguir fazer o download de sua consciência em um corpo robótico ele estará morto. Por isso, ele procura maneiras de prolongar sua vida.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015012500 +0000" stop="20251015020000 +0000">
+		<title lang="pt">Vida de Rodeio</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015013000 +0000" stop="20251015015400 +0000">
@@ -27,9 +48,24 @@
 		<desc lang="pt">A casa de Charlie se transforma em uma cena de crime e uma equipe de cientistas forenses a invade para examiná-la e descobrir o que aconteceu.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015020000 +0000" stop="20251015030000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015020000 +0000" stop="20251015023500 +0000">
+		<title lang="pt">Aberto Ao Público</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015021700 +0000" stop="20251015023800 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie se sente atraído por uma escritora, mais velha, de livros de auto-ajuda. Alan insiste para que Jake termine o seu trabalho sobre "Taming of the Shrew", mas Jake vive perdendo o livro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015023500 +0000" stop="20251015031500 +0000">
+		<title lang="pt">Profissão Repórter</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015023800 +0000" stop="20251015030200 +0000">
@@ -37,9 +73,19 @@
 		<desc lang="pt">Quando Charlie conhece a noiva do filho de Angie, ele percebe que não será pela primeira vez. Alan tenta fazer com que Jake estude para a prova final.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015030000 +0000" stop="20251015050000 +0000">
+		<title lang="pt">VT - Paysandu x Remo</title>
+		<desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos com a transmissão e cobertura completa da ESPN.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015030200 +0000" stop="20251015032600 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie descobre que uma ex tem um filho que se parece demais com ele.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015031500 +0000" stop="20251015040500 +0000">
+		<title lang="pt">Jornal da Globo</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015032600 +0000" stop="20251015035000 +0000">
@@ -52,6 +98,11 @@
 		<desc lang="pt">Já que Leonard e Penny não se falam mais, Sheldon faz de tudo para que estejam felizes, mas acaba preso numa grande mentira.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015040500 +0000" stop="20251015044500 +0000">
+		<title lang="pt">Conversa com Bial</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015040900 +0000" stop="20251015043300 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Leonard e Sheldon fazem de tudo para ganhar a atenção da famosa cientista, a Dra. Elizabeth Plimpton.</desc>
@@ -62,14 +113,29 @@
 		<desc lang="pt">Leonard conta para Penny como começou sua amizade com Sheldon; e ainda descobriremos o que aconteceu no elevador do edifício.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015044500 +0000" stop="20251015053000 +0000">
+		<title lang="pt">Dona de Mim</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015045500 +0000" stop="20251015051500 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Raj e Howard colocam o perfil de Sheldon na internet para ajudá-lo a conseguir um encontro.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015050000 +0000" stop="20251015060000 +0000">
+		<title lang="pt">Bola da Vez: Tamara Klink</title>
+		<desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015051500 +0000" stop="20251015053700 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Howard usa uma arma robótica para seu prazer. Penny ajuda Sheldon em seu primeiro encontro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015053000 +0000" stop="20251015061500 +0000">
+		<title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015053700 +0000" stop="20251015055900 +0000">
@@ -79,6 +145,16 @@
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015055900 +0000" stop="20251015062400 +0000">
 		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015060000 +0000" stop="20251015080000 +0000">
+		<title lang="pt">VT - Itália x Israel</title>
+		<desc lang="pt">As seleções europeias competem para conquistar a sonhada classificação para a Eurocopa. Divididas em grupos, elas jogam dentro e fora de casa, com um cronograma apertado.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015061500 +0000" stop="20251015070000 +0000">
+		<title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
@@ -92,9 +168,19 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015070000 +0000" stop="20251015090000 +0000">
+		<title lang="pt">Hora Um</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015073100 +0000" stop="20251015081500 +0000">
 		<title lang="pt">The Vampire Diaries</title>
 		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015080000 +0000" stop="20251015100000 +0000">
+		<title lang="pt">VT - Espanha x Bulgária</title>
+		<desc lang="pt">As seleções europeias competem para conquistar a sonhada classificação para a Eurocopa. Divididas em grupos, elas jogam dentro e fora de casa, com um cronograma apertado.</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015081500 +0000" stop="20251015090000 +0000">
@@ -107,9 +193,19 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015090000 +0000" stop="20251015113000 +0000">
+		<title lang="pt">Bom Dia Rio</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015095800 +0000" stop="20251015102200 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015100000 +0000" stop="20251015120000 +0000">
+		<title lang="pt">VT - Athletico-PR x Avaí</title>
+		<desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos com a transmissão e cobertura completa da ESPN.</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015102200 +0000" stop="20251015104200 +0000">
@@ -132,13 +228,28 @@
 		<desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015113000 +0000" stop="20251015123000 +0000">
+		<title lang="pt">Bom Dia Brasil</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015115100 +0000" stop="20251015121400 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015120000 +0000" stop="20251015130000 +0000">
+		<title lang="pt">Sportscenter</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015121400 +0000" stop="20251015125900 +0000">
 		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015123000 +0000" stop="20251015133500 +0000">
+		<title lang="pt">Encontro com Patrícia Poeta</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
@@ -147,9 +258,24 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015130000 +0000" stop="20251015140000 +0000">
+		<title lang="pt">Puxeta - Ao Vivo</title>
+		<desc lang="pt">Sinopse não disponível.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015133500 +0000" stop="20251015144500 +0000">
+		<title lang="pt">Mais Você</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015134400 +0000" stop="20251015140400 +0000">
 		<title lang="pt">Young Sheldon</title>
 		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015140000 +0000" stop="20251015160000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015140400 +0000" stop="20251015142500 +0000">
@@ -159,6 +285,11 @@
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015142500 +0000" stop="20251015144800 +0000">
 		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015144500 +0000" stop="20251015160000 +0000">
+		<title lang="pt">RJ1</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
@@ -182,9 +313,24 @@
 		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015160000 +0000" stop="20251015174500 +0000">
+		<title lang="pt">F Show - Ao Vivo</title>
+		<desc lang="pt">Um verdadeiro show sobre futebol. Aqui cabe de tudo. Jornalismo, opinião e entretenimento em um tom acalorado, de certa maneira indignado, apimentado, humor inteligente e aquele sarcasmo inerente ao universo do torcedor.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015160000 +0000" stop="20251015162500 +0000">
+		<title lang="pt">Globo Esporte</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015161800 +0000" stop="20251015163900 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015162500 +0000" stop="20251015174500 +0000">
+		<title lang="pt">Jornal Hoje</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015163900 +0000" stop="20251015170400 +0000">
@@ -202,6 +348,16 @@
 		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015174500 +0000" stop="20251015184500 +0000">
+		<title lang="pt">Mundo F - Ao Vivo</title>
+		<desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015174500 +0000" stop="20251015183500 +0000">
+		<title lang="pt">Terra Nostra</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015175000 +0000" stop="20251015181300 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
@@ -215,6 +371,16 @@
 	<programme channel="WARNER CHANNEL" start="20251015183500 +0000" stop="20251015190000 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015183500 +0000" stop="20251015200500 +0000">
+		<title lang="pt">Sessão da Tarde: Professor Peso Pesado</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015184500 +0000" stop="20251015210000 +0000">
+		<title lang="pt">UEFA Women's Champions League: Roma (ITA) x Barcelona (ESP) - Ao Vivo</title>
+		<desc lang="pt">A UEFA Women's Champions League representa o que há de melhor no futebol europeu de clubes. Na renovada edição 2025/26, cada jogo conta!</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015190000 +0000" stop="20251015192400 +0000">
@@ -232,13 +398,38 @@
 		<desc lang="pt">Daniel passa um tempo com a filha. Johnny planeja abrir um novo dojô de caratê, mas não consegue pensar em um nome legal.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015200500 +0000" stop="20251015201500 +0000">
+		<title lang="pt">Boletim RJ2</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015201500 +0000" stop="20251015210500 +0000">
+		<title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015201900 +0000" stop="20251015210200 +0000">
 		<title lang="pt">The Vampire Diaries</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015210000 +0000" stop="20251015223000 +0000">
+		<title lang="pt">Equipe F - Ao Vivo</title>
+		<desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015210200 +0000" stop="20251015214900 +0000">
 		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015210500 +0000" stop="20251015214500 +0000">
+		<title lang="pt">Êta Mundo Melhor!</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015214500 +0000" stop="20251015221500 +0000">
+		<title lang="pt">RJ2</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
@@ -252,6 +443,16 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015221500 +0000" stop="20251015230000 +0000">
+		<title lang="pt">Dona de Mim</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015223000 +0000" stop="20251015230000 +0000">
+		<title lang="pt">Especial: Professores do Brasil - Capoeira</title>
+		<desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015223000 +0000" stop="20251015225300 +0000">
 		<title lang="pt">Young Sheldon</title>
 		<desc lang="pt">Sem descrição</desc>
@@ -262,9 +463,24 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="ESPN" start="20251015230000 +0000" stop="20251015233000 +0000">
+		<title lang="pt">Show da Rodada do Italiano</title>
+		<desc lang="pt">O melhor resumo dos gols da Série A italiana logo depois de cada partida.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="GLOBO" start="20251015230000 +0000" stop="20251015234000 +0000">
+		<title lang="pt">Jornal Nacional</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015231500 +0000" stop="20251015233700 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Quando Sheldon "termina" com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="ESPN" start="20251015233000 +0000" stop="20251016000000 +0000">
+		<title lang="pt">Resenha: Moisés e William</title>
+		<desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
 		<date>2025-10-15</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251015233700 +0000" stop="20251016000000 +0000">
@@ -272,14 +488,29 @@
 		<desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
 		<date>2025-10-15</date>
 	</programme>
+	<programme channel="GLOBO" start="20251015234000 +0000" stop="20251016000000 +0000">
+		<title lang="pt">Vale Tudo</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016000000 +0000" stop="20251016002400 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016002000 +0000" stop="20251016023000 +0000">
+		<title lang="pt">Futebol 2025</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016002400 +0000" stop="20251016004700 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016003000 +0000" stop="20251016023000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016004700 +0000" stop="20251016010800 +0000">
@@ -302,9 +533,24 @@
 		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016023000 +0000" stop="20251016040000 +0000">
+		<title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
+		<desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016023000 +0000" stop="20251016024500 +0000">
+		<title lang="pt">Segue o Jogo</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016023800 +0000" stop="20251016030200 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016024500 +0000" stop="20251016033000 +0000">
+		<title lang="pt">Que História é Essa Porchat?</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016030200 +0000" stop="20251016032500 +0000">
@@ -317,14 +563,29 @@
 		<desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016033000 +0000" stop="20251016042000 +0000">
+		<title lang="pt">Jornal da Globo</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016034700 +0000" stop="20251016040900 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016040000 +0000" stop="20251016050000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016040900 +0000" stop="20251016043300 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016042000 +0000" stop="20251016050000 +0000">
+		<title lang="pt">Conversa com Bial</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016043300 +0000" stop="20251016045600 +0000">
@@ -337,6 +598,16 @@
 		<desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016050000 +0000" stop="20251016060000 +0000">
+		<title lang="pt">European Qualifiers Match Night Highlights</title>
+		<desc lang="pt">As melhores jogadas e os destaques do dia. Fique por dentro das Eliminatórias Européias para a Euro 2024.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016050000 +0000" stop="20251016054000 +0000">
+		<title lang="pt">Dona de Mim</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016051600 +0000" stop="20251016053700 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
@@ -347,9 +618,24 @@
 		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016054000 +0000" stop="20251016062000 +0000">
+		<title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016060000 +0000" stop="20251016080000 +0000">
+		<title lang="pt">VT - Turquia x Georgia</title>
+		<desc lang="pt">O sonho do Mundial está mais próximo! Seleções de todo o planeta se enfrentam por um lugar na Copa do Mundo. A emoção das Eliminatórias é contagiante!</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016060000 +0000" stop="20251016062200 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016062000 +0000" stop="20251016070000 +0000">
+		<title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016062200 +0000" stop="20251016064100 +0000">
@@ -362,9 +648,19 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016070000 +0000" stop="20251016090000 +0000">
+		<title lang="pt">Hora Um</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016072500 +0000" stop="20251016080700 +0000">
 		<title lang="pt">The Vampire Diaries</title>
 		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016080000 +0000" stop="20251016100000 +0000">
+		<title lang="pt">VT - Espanha x Bulgária</title>
+		<desc lang="pt">As seleções europeias competem para conquistar a sonhada classificação para a Eurocopa. Divididas em grupos, elas jogam dentro e fora de casa, com um cronograma apertado.</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016080700 +0000" stop="20251016090000 +0000">
@@ -377,14 +673,29 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016090000 +0000" stop="20251016113000 +0000">
+		<title lang="pt">Bom Dia Rio</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016095800 +0000" stop="20251016102100 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie se vê em maus lençóis quando Jake foge com a filha de um jogador famoso. A Mercedes de Charlie mostra-se um instrumento poderoso para a vida amorosa de Alan.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016100000 +0000" stop="20251016103000 +0000">
+		<title lang="pt">Especial: Professores do Brasil - Capoeira</title>
+		<desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016102100 +0000" stop="20251016104200 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Alan começa a pensar na vida de aposentado quando Evelyn afirma que vai cuidar da faculdade de Jake. Jake demonstra um talento que pode dispensá-lo da vida universitária.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016103000 +0000" stop="20251016120000 +0000">
+		<title lang="pt">Linha de Passe: Mesa-Redonda</title>
+		<desc lang="pt">Os craques da ESPN se reúnem na mesa redonda de maior prestígio do futebol. O debate mais acalorado, as melhores críticas, comentários e a análise completa da rodada.</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016104200 +0000" stop="20251016110500 +0000">
@@ -402,13 +713,28 @@
 		<desc lang="pt">Judith está grávida de uma menina e Alan está convencido de que ele é o pai. Jake está com um ótimo humor e Charlie acha que sabe o porquê.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016113000 +0000" stop="20251016123000 +0000">
+		<title lang="pt">Bom Dia Brasil</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016115200 +0000" stop="20251016121400 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Melissa faz uma festa de aniversário para Alan, mas a sua família fica indiferente à festa. Então ela percebe que ele não é muito valorizado na família e lhe oferece a oportunidade de morar com ela e a mãe dela.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016120000 +0000" stop="20251016130000 +0000">
+		<title lang="pt">Sportscenter</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016121400 +0000" stop="20251016125900 +0000">
 		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016123000 +0000" stop="20251016133500 +0000">
+		<title lang="pt">Encontro com Patrícia Poeta</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
@@ -417,9 +743,24 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016130000 +0000" stop="20251016140000 +0000">
+		<title lang="pt">Puxeta - Ao Vivo</title>
+		<desc lang="pt">Sinopse não disponível.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016133500 +0000" stop="20251016144500 +0000">
+		<title lang="pt">Mais Você</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016134400 +0000" stop="20251016140300 +0000">
 		<title lang="pt">Young Sheldon</title>
 		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016140000 +0000" stop="20251016160000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016140300 +0000" stop="20251016142500 +0000">
@@ -434,6 +775,11 @@
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016144400 +0000" stop="20251016150600 +0000">
 		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016144500 +0000" stop="20251016160000 +0000">
+		<title lang="pt">RJ1</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
@@ -452,9 +798,24 @@
 		<desc lang="pt">Os rapazes convencem Zack a partir de um concurso de fantasias da Liga da Justiça.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016160000 +0000" stop="20251016174500 +0000">
+		<title lang="pt">F Show - Ao Vivo</title>
+		<desc lang="pt">Um verdadeiro show sobre futebol. Aqui cabe de tudo. Jornalismo, opinião e entretenimento em um tom acalorado, de certa maneira indignado, apimentado, humor inteligente e aquele sarcasmo inerente ao universo do torcedor.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016160000 +0000" stop="20251016162500 +0000">
+		<title lang="pt">Globo Esporte</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016161400 +0000" stop="20251016163700 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">A amizade de Sheldon e Leonard fica estremecida quando Sheldon tenta levar o crédito pelo aplicativo para smartphones criado por Leonard, que resolve diferentes equações.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016162500 +0000" stop="20251016174500 +0000">
+		<title lang="pt">Jornal Hoje</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016163700 +0000" stop="20251016170200 +0000">
@@ -472,6 +833,16 @@
 		<desc lang="pt">Charlie se vê em maus lençóis quando Jake foge com a filha de um jogador famoso. A Mercedes de Charlie mostra-se um instrumento poderoso para a vida amorosa de Alan.</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016174500 +0000" stop="20251016184500 +0000">
+		<title lang="pt">Mundo F - Ao Vivo</title>
+		<desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016174500 +0000" stop="20251016184000 +0000">
+		<title lang="pt">Terra Nostra</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016175100 +0000" stop="20251016181300 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Alan começa a pensar na vida de aposentado quando Evelyn afirma que vai cuidar da faculdade de Jake. Jake demonstra um talento que pode dispensá-lo da vida universitária.</desc>
@@ -485,6 +856,16 @@
 	<programme channel="WARNER CHANNEL" start="20251016183700 +0000" stop="20251016190000 +0000">
 		<title lang="pt">Two and a Half Men</title>
 		<desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016184000 +0000" stop="20251016202000 +0000">
+		<title lang="pt">Sessão da Tarde: A Menina Que Acredita em Milagres</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016184500 +0000" stop="20251016210000 +0000">
+		<title lang="pt">UEFA Women's Champions League: PSG (FRA) x Real Madrid (ESP) - Ao Vivo</title>
+		<desc lang="pt">Confira as etapas finais válida pela UEFA Champions League feminina.</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016190000 +0000" stop="20251016192500 +0000">
@@ -507,8 +888,23 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016202000 +0000" stop="20251016212500 +0000">
+		<title lang="pt">Vale a Pena Ver de Novo: A Viagem</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251016210000 +0000" stop="20251016230000 +0000">
+		<title lang="pt">Equipe F - Ao Vivo</title>
+		<desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016210200 +0000" stop="20251016214700 +0000">
 		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016212500 +0000" stop="20251016221000 +0000">
+		<title lang="pt">Êta Mundo Melhor!</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
@@ -522,8 +918,18 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="GLOBO" start="20251016221000 +0000" stop="20251016224000 +0000">
+		<title lang="pt">RJ2</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016222700 +0000" stop="20251016224800 +0000">
 		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016224000 +0000" stop="20251016233000 +0000">
+		<title lang="pt">Dona de Mim</title>
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
@@ -532,9 +938,19 @@
 		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
+	<programme channel="ESPN" start="20251016230000 +0000" stop="20251017000000 +0000">
+		<title lang="pt">Bola da Vez: Tamara Klink</title>
+		<desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
+		<date>2025-10-16</date>
+	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016230900 +0000" stop="20251016233300 +0000">
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Penny pede a Leonard para mentir para seu pai. Enquanto isso, Howard, Raj e Bernadette passam a noite toda observando o céu com um telescópio. Keith Carradine faz uma participação especial.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="GLOBO" start="20251016233000 +0000" stop="20251017000000 +0000">
+		<title lang="pt">Jornal Nacional</title>
+		<desc lang="pt">Sem descrição</desc>
 		<date>2025-10-16</date>
 	</programme>
 	<programme channel="WARNER CHANNEL" start="20251016233300 +0000" stop="20251016235600 +0000">
@@ -546,5 +962,10 @@
 		<title lang="pt">The Big Bang Theory</title>
 		<desc lang="pt">Os rapazes convencem Zack a partir de um concurso de fantasias da Liga da Justiça.</desc>
 		<date>2025-10-16</date>
+	</programme>
+	<programme channel="ESPN" start="20251017000000 +0000" stop="20251018000000 +0000">
+		<title lang="pt">Sportscenter - Ao Vivo</title>
+		<desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+		<date>2025-10-17</date>
 	</programme>
 </tv>
