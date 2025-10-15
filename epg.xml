@@ -1,676 +1,550 @@
-<?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/465495/20251013.html">
-<channel id="WARNER CHANNEL">
-<display-name lang="Brazil">Warner Channel</display-name>
-<icon src=""/>
-</channel>
-<programme channel="WARNER CHANNEL" start="20251013000100 +0000" stop="20251013002500 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013002500 +0000" stop="20251013004800 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013004800 +0000" stop="20251013010700 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013010700 +0000" stop="20251013013000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013013000 +0000" stop="20251013033500 +0000">
-<title lang="pt">A Família Mitchell e a Revolta das Máquinas</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013033500 +0000" stop="20251013035800 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013035800 +0000" stop="20251013041900 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013041900 +0000" stop="20251013043900 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013043900 +0000" stop="20251013050100 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013050100 +0000" stop="20251013052200 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013052200 +0000" stop="20251013054200 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013054200 +0000" stop="20251013060400 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013060400 +0000" stop="20251013062700 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013062700 +0000" stop="20251013065000 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013065000 +0000" stop="20251013071000 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013071000 +0000" stop="20251013073100 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013073100 +0000" stop="20251013090000 +0000">
-<title lang="pt">Encontrados</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013090000 +0000" stop="20251013094300 +0000">
-<title lang="pt">Encontrados</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013094300 +0000" stop="20251013100500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013100500 +0000" stop="20251013103000 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013103000 +0000" stop="20251013105400 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013105400 +0000" stop="20251013111400 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013111400 +0000" stop="20251013113700 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013113700 +0000" stop="20251013120100 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013120100 +0000" stop="20251013124500 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013124500 +0000" stop="20251013133000 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013133000 +0000" stop="20251013135200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013135200 +0000" stop="20251013141200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013141200 +0000" stop="20251013143400 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013143400 +0000" stop="20251013145700 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013145700 +0000" stop="20251013151900 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013151900 +0000" stop="20251013154000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013154000 +0000" stop="20251013160300 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013160300 +0000" stop="20251013162700 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013162700 +0000" stop="20251013165200 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013165200 +0000" stop="20251013171200 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013171200 +0000" stop="20251013173500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013173500 +0000" stop="20251013180000 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013180000 +0000" stop="20251013182500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013182500 +0000" stop="20251013184700 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013184700 +0000" stop="20251013190800 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013190800 +0000" stop="20251013193300 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013193300 +0000" stop="20251013201500 +0000">
-<title lang="pt">Cobra Kai</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013201500 +0000" stop="20251013205900 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013205900 +0000" stop="20251013214400 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013214400 +0000" stop="20251013220500 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013220500 +0000" stop="20251013222800 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013222800 +0000" stop="20251013225200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013225200 +0000" stop="20251013231200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013231200 +0000" stop="20251013233300 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013233300 +0000" stop="20251013235700 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251013235700 +0000" stop="20251014000000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-13</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014002100 +0000" stop="20251014004300 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014004300 +0000" stop="20251014010600 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014010600 +0000" stop="20251014013000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014013000 +0000" stop="20251014015400 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014015400 +0000" stop="20251014021700 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014021700 +0000" stop="20251014023800 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014023800 +0000" stop="20251014030100 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014030100 +0000" stop="20251014032500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014032500 +0000" stop="20251014034900 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014034900 +0000" stop="20251014040700 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014040700 +0000" stop="20251014043100 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014043100 +0000" stop="20251014045400 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014045400 +0000" stop="20251014051400 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014051400 +0000" stop="20251014053600 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014053600 +0000" stop="20251014055800 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014055800 +0000" stop="20251014062300 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014062300 +0000" stop="20251014064800 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014064800 +0000" stop="20251014073000 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014073000 +0000" stop="20251014081400 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014081400 +0000" stop="20251014090000 +0000">
-<title lang="pt">Encontrados</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014090000 +0000" stop="20251014095000 +0000">
-<title lang="pt">Encontrados</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014095000 +0000" stop="20251014101300 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014101300 +0000" stop="20251014103500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014103500 +0000" stop="20251014105900 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014105900 +0000" stop="20251014112300 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014112300 +0000" stop="20251014114500 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014114500 +0000" stop="20251014120800 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014120800 +0000" stop="20251014125400 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014125400 +0000" stop="20251014133700 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014133700 +0000" stop="20251014135900 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014135900 +0000" stop="20251014142100 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014142100 +0000" stop="20251014143900 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014143900 +0000" stop="20251014150200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014150200 +0000" stop="20251014152500 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014152500 +0000" stop="20251014154900 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014154900 +0000" stop="20251014160800 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014160800 +0000" stop="20251014163200 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014163200 +0000" stop="20251014165600 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014165600 +0000" stop="20251014172000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014172000 +0000" stop="20251014174300 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014174300 +0000" stop="20251014180600 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014180600 +0000" stop="20251014183100 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014183100 +0000" stop="20251014185600 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014185600 +0000" stop="20251014192000 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014192000 +0000" stop="20251014194300 +0000">
-<title lang="pt">Two and a Half Men</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014194300 +0000" stop="20251014202000 +0000">
-<title lang="pt">Cobra Kai</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014202000 +0000" stop="20251014210300 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014210300 +0000" stop="20251014215000 +0000">
-<title lang="pt">The Vampire Diaries</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014215000 +0000" stop="20251014220900 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014220900 +0000" stop="20251014223100 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014223100 +0000" stop="20251014225300 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014225300 +0000" stop="20251014231200 +0000">
-<title lang="pt">Young Sheldon</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014231200 +0000" stop="20251014233400 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014233400 +0000" stop="20251014235800 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="WARNER CHANNEL" start="20251014235800 +0000" stop="20251015000000 +0000">
-<title lang="pt">The Big Bang Theory</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<channel id="Telecine Action HD">
-<display-name lang="Brazil">Telecine Action</display-name>
-<icon src=""/>
-</channel>
-<programme channel="Telecine Action HD" start="20251014010000 +0000" stop="20251014034000 +0000">
-<title lang="pt">Filme Para Sentir - Nostálgico: Gladiador</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014034000 +0000" stop="20251014051500 +0000">
-<title lang="pt">João E Maria: Caçadores De Bruxas</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014051500 +0000" stop="20251014065500 +0000">
-<title lang="pt">Brincadeira Mortal</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014065500 +0000" stop="20251014083500 +0000">
-<title lang="pt">Jogue ou Morra</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014083500 +0000" stop="20251014101500 +0000">
-<title lang="pt">Na Rota do Tráfico</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014101500 +0000" stop="20251014115000 +0000">
-<title lang="pt">Pânico nas Alturas</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014115000 +0000" stop="20251014132000 +0000">
-<title lang="pt">Passageiro 666</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014132000 +0000" stop="20251014152500 +0000">
-<title lang="pt">Dupla Explosiva</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014152500 +0000" stop="20251014171500 +0000">
-<title lang="pt">Mortal</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014171500 +0000" stop="20251014193500 +0000">
-<title lang="pt">Batman Begins</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014193500 +0000" stop="20251014212500 +0000">
-<title lang="pt">A Força Em Alerta 2</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014212500 +0000" stop="20251014213000 +0000">
-<title lang="pt">Preview No Action</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014213000 +0000" stop="20251014231500 +0000">
-<title lang="pt">O Silêncio da Chuva</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251014231500 +0000" stop="20251015000000 +0000">
-<title lang="pt">Os Mercenários 4</title>
-<desc/>
-<date>2025-10-14</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015010000 +0000" stop="20251015025500 +0000">
-<title lang="pt">Assassin's Creed</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015025500 +0000" stop="20251015043500 +0000">
-<title lang="pt">Caça Às Bruxas</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015043500 +0000" stop="20251015063500 +0000">
-<title lang="pt">Refém</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015063500 +0000" stop="20251015083500 +0000">
-<title lang="pt">Ascensão E Queda De Um Império</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015083500 +0000" stop="20251015105500 +0000">
-<title lang="pt">Bacurau</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015105500 +0000" stop="20251015124000 +0000">
-<title lang="pt">Carga Explosiva - O Legado</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015124000 +0000" stop="20251015143000 +0000">
-<title lang="pt">Medida Provisória</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015143000 +0000" stop="20251015161500 +0000">
-<title lang="pt">Rambo: Até o Fim</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015161500 +0000" stop="20251015182500 +0000">
-<title lang="pt">Missão: Impossível 2</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015182500 +0000" stop="20251015201500 +0000">
-<title lang="pt">Ajuste de Contas (2019)</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015201500 +0000" stop="20251015223000 +0000">
-<title lang="pt">Medusa</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
-<programme channel="Telecine Action HD" start="20251015223000 +0000" stop="20251016000000 +0000">
-<title lang="pt">O Homem De Aço</title>
-<desc/>
-<date>2025-10-15</date>
-</programme>
+<tv generator-info-name="epg.pw">
+	<channel id="WARNER CHANNEL">
+		<display-name lang="Brazil">São Paulo/SP Warner Channel</display-name>
+	</channel>
+	<programme channel="WARNER CHANNEL" start="20251015002200 +0000" stop="20251015004300 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Raj e Howard colocam o perfil de Sheldon na internet para ajudá-lo a conseguir um encontro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015004300 +0000" stop="20251015010600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Howard usa uma arma robótica para seu prazer. Penny ajuda Sheldon em seu primeiro encontro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015010600 +0000" stop="20251015013000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Sheldon percebe que quando finalmente conseguir fazer o download de sua consciência em um corpo robótico ele estará morto. Por isso, ele procura maneiras de prolongar sua vida.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015013000 +0000" stop="20251015015400 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan faz planos de casamento para Evelyn e Teddy, enquanto Charlie tenta descobrir como ficar mais próximo de sua futura cunhada, Courtney.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015015400 +0000" stop="20251015021700 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">A casa de Charlie se transforma em uma cena de crime e uma equipe de cientistas forenses a invade para examiná-la e descobrir o que aconteceu.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015021700 +0000" stop="20251015023800 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie se sente atraído por uma escritora, mais velha, de livros de auto-ajuda. Alan insiste para que Jake termine o seu trabalho sobre "Taming of the Shrew", mas Jake vive perdendo o livro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015023800 +0000" stop="20251015030200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Quando Charlie conhece a noiva do filho de Angie, ele percebe que não será pela primeira vez. Alan tenta fazer com que Jake estude para a prova final.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015030200 +0000" stop="20251015032600 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie descobre que uma ex tem um filho que se parece demais com ele.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015032600 +0000" stop="20251015035000 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan vai muito longe para conseguir de volta o dinheiro que emprestou para Charlie.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015035000 +0000" stop="20251015040900 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Já que Leonard e Penny não se falam mais, Sheldon faz de tudo para que estejam felizes, mas acaba preso numa grande mentira.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015040900 +0000" stop="20251015043300 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Leonard e Sheldon fazem de tudo para ganhar a atenção da famosa cientista, a Dra. Elizabeth Plimpton.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015043300 +0000" stop="20251015045500 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Leonard conta para Penny como começou sua amizade com Sheldon; e ainda descobriremos o que aconteceu no elevador do edifício.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015045500 +0000" stop="20251015051500 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Raj e Howard colocam o perfil de Sheldon na internet para ajudá-lo a conseguir um encontro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015051500 +0000" stop="20251015053700 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Howard usa uma arma robótica para seu prazer. Penny ajuda Sheldon em seu primeiro encontro.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015053700 +0000" stop="20251015055900 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Sheldon percebe que quando finalmente conseguir fazer o download de sua consciência em um corpo robótico ele estará morto. Por isso, ele procura maneiras de prolongar sua vida.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015055900 +0000" stop="20251015062400 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015062400 +0000" stop="20251015064900 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015064900 +0000" stop="20251015073100 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015073100 +0000" stop="20251015081500 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015081500 +0000" stop="20251015090000 +0000">
+		<title lang="pt">Encontrados</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015090000 +0000" stop="20251015095800 +0000">
+		<title lang="pt">Encontrados</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015095800 +0000" stop="20251015102200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015102200 +0000" stop="20251015104200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015104200 +0000" stop="20251015110400 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015110400 +0000" stop="20251015112800 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015112800 +0000" stop="20251015115100 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015115100 +0000" stop="20251015121400 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015121400 +0000" stop="20251015125900 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015125900 +0000" stop="20251015134400 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015134400 +0000" stop="20251015140400 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015140400 +0000" stop="20251015142500 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015142500 +0000" stop="20251015144800 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015144800 +0000" stop="20251015150800 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015150800 +0000" stop="20251015153200 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Quando Sheldon "termina" com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015153200 +0000" stop="20251015155400 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015155400 +0000" stop="20251015161800 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015161800 +0000" stop="20251015163900 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015163900 +0000" stop="20251015170400 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015170400 +0000" stop="20251015172600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015172600 +0000" stop="20251015175000 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015175000 +0000" stop="20251015181300 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015181300 +0000" stop="20251015183500 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015183500 +0000" stop="20251015190000 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015190000 +0000" stop="20251015192400 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015192400 +0000" stop="20251015194900 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015194900 +0000" stop="20251015201900 +0000">
+		<title lang="pt">Cobra Kai</title>
+		<desc lang="pt">Daniel passa um tempo com a filha. Johnny planeja abrir um novo dojô de caratê, mas não consegue pensar em um nome legal.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015201900 +0000" stop="20251015210200 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015210200 +0000" stop="20251015214900 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015214900 +0000" stop="20251015220800 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015220800 +0000" stop="20251015223000 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015223000 +0000" stop="20251015225300 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015225300 +0000" stop="20251015231500 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015231500 +0000" stop="20251015233700 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Quando Sheldon "termina" com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251015233700 +0000" stop="20251016000000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
+		<date>2025-10-15</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016000000 +0000" stop="20251016002400 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016002400 +0000" stop="20251016004700 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016004700 +0000" stop="20251016010800 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016010800 +0000" stop="20251016013000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016013000 +0000" stop="20251016021600 +0000">
+		<title lang="pt">All American: Homecoming</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016021600 +0000" stop="20251016023800 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan, Jake e Charlie decidem experimentar coisas novas: Alan está saindo com mais de uma mulher, Charlie aprende a cozinhar e Jake experimenta cerveja.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016023800 +0000" stop="20251016030200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie começa a sair com a recepcionista de Alan e seu irmão tem um mau pressentimento sobre isso.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016030200 +0000" stop="20251016032500 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie tenta ajudar uma ex-professora de Jack, que virou stripper depois de um encontro com o solteirão. Mas as coisas vão de mal a pior quando ela passa por uma conversão religiosa.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016032500 +0000" stop="20251016034700 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Quando Judith expulsa Herb de casa, Alan sonha com uma chance de reconciliação.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016034700 +0000" stop="20251016040900 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan tenta escapar de Judth, que está muito carente, enquanto Charlie e Herb saem para conhecer mulheres.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016040900 +0000" stop="20251016043300 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">A nova namorada de Charlie quer que ele vá dormir na casa dela. Alan tem problemas para levar a sério o castigo que Judith aplica em Jake.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016043300 +0000" stop="20251016045600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Quando Sheldon "termina" com Amy, seus amigos se preocupam quando ele procura uma nova companhia (não-humana) para substituí-la.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016045600 +0000" stop="20251016051600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Wolowitz fica envergonhado quando um segredo seu é revelado. Sheldon e Raj declaram guerra no trabalho.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016051600 +0000" stop="20251016053700 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Sheldon conhece a mãe de Amy e percebe que não quer mais sair com ela. Leonard percebe que todos estão namorando a não ser ele.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016053700 +0000" stop="20251016060000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Leonard esconde um caso secreto de Sheldon, Raj e Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016060000 +0000" stop="20251016062200 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">O resto da turma é entrevistada pelo FBI para limpar a ficha de Wolowitz.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016062200 +0000" stop="20251016064100 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Os rapazes acampam na fila para assistir a um filme muito esperado. Enquanto isso, Penny e Bernadette organizam a primeira festa de pijama de Amy.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016064100 +0000" stop="20251016072500 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016072500 +0000" stop="20251016080700 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016080700 +0000" stop="20251016090000 +0000">
+		<title lang="pt">Encontrados</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016090000 +0000" stop="20251016095800 +0000">
+		<title lang="pt">Encontrados</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016095800 +0000" stop="20251016102100 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie se vê em maus lençóis quando Jake foge com a filha de um jogador famoso. A Mercedes de Charlie mostra-se um instrumento poderoso para a vida amorosa de Alan.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016102100 +0000" stop="20251016104200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan começa a pensar na vida de aposentado quando Evelyn afirma que vai cuidar da faculdade de Jake. Jake demonstra um talento que pode dispensá-lo da vida universitária.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016104200 +0000" stop="20251016110500 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie pensa sobre seus dias de loucuras quando um velho amigo morre.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016110500 +0000" stop="20251016112800 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016112800 +0000" stop="20251016115200 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Judith está grávida de uma menina e Alan está convencido de que ele é o pai. Jake está com um ótimo humor e Charlie acha que sabe o porquê.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016115200 +0000" stop="20251016121400 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Melissa faz uma festa de aniversário para Alan, mas a sua família fica indiferente à festa. Então ela percebe que ele não é muito valorizado na família e lhe oferece a oportunidade de morar com ela e a mãe dela.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016121400 +0000" stop="20251016125900 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016125900 +0000" stop="20251016134400 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016134400 +0000" stop="20251016140300 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016140300 +0000" stop="20251016142500 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016142500 +0000" stop="20251016144400 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016144400 +0000" stop="20251016150600 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016150600 +0000" stop="20251016153000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Penny pede a Leonard para mentir para seu pai. Enquanto isso, Howard, Raj e Bernadette passam a noite toda observando o céu com um telescópio. Keith Carradine faz uma participação especial.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016153000 +0000" stop="20251016155300 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Amy se interessa por um dos ex-namorados burros de Penny. Raj e Wolowitz discutem para tentar determinar quem seria o melhor super heroi.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016155300 +0000" stop="20251016161400 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Os rapazes convencem Zack a partir de um concurso de fantasias da Liga da Justiça.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016161400 +0000" stop="20251016163700 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">A amizade de Sheldon e Leonard fica estremecida quando Sheldon tenta levar o crédito pelo aplicativo para smartphones criado por Leonard, que resolve diferentes equações.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016163700 +0000" stop="20251016170200 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Uma convenção científica num hotel faz Bernadette encontrar-se acidentalmente com um ex-namorado. Wolowitz se sente diminuído pelo rival.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016170200 +0000" stop="20251016172600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Na esperança de tornar-se um professor melhor, Sheldon pede lições de teatro a Penny. Raj tem fantasias com a namorada de um amigo.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016172600 +0000" stop="20251016175100 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie se vê em maus lençóis quando Jake foge com a filha de um jogador famoso. A Mercedes de Charlie mostra-se um instrumento poderoso para a vida amorosa de Alan.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016175100 +0000" stop="20251016181300 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Alan começa a pensar na vida de aposentado quando Evelyn afirma que vai cuidar da faculdade de Jake. Jake demonstra um talento que pode dispensá-lo da vida universitária.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016181300 +0000" stop="20251016183700 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie pensa sobre seus dias de loucuras quando um velho amigo morre.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016183700 +0000" stop="20251016190000 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Charlie é um solteirão, mulherengo, que está muito bem de vida. Seu tranqüilo estilo de vida, em Malibu, é interrompido quando seu irmão Alan e o filho de Alan, Jake, chegam para morar com ele.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016190000 +0000" stop="20251016192500 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Judith está grávida de uma menina e Alan está convencido de que ele é o pai. Jake está com um ótimo humor e Charlie acha que sabe o porquê.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016192500 +0000" stop="20251016194900 +0000">
+		<title lang="pt">Two and a Half Men</title>
+		<desc lang="pt">Melissa faz uma festa de aniversário para Alan, mas a sua família fica indiferente à festa. Então ela percebe que ele não é muito valorizado na família e lhe oferece a oportunidade de morar com ela e a mãe dela.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016194900 +0000" stop="20251016201800 +0000">
+		<title lang="pt">Cobra Kai</title>
+		<desc lang="pt">Informados de que o Torneio Regional será cancelado, os três senseis concorrentes fazem uma reunião na prefeitura para salvá-lo.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016201800 +0000" stop="20251016210200 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016210200 +0000" stop="20251016214700 +0000">
+		<title lang="pt">The Vampire Diaries</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016214700 +0000" stop="20251016220500 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016220500 +0000" stop="20251016222700 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016222700 +0000" stop="20251016224800 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016224800 +0000" stop="20251016230900 +0000">
+		<title lang="pt">Young Sheldon</title>
+		<desc lang="pt">Sem descrição</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016230900 +0000" stop="20251016233300 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Penny pede a Leonard para mentir para seu pai. Enquanto isso, Howard, Raj e Bernadette passam a noite toda observando o céu com um telescópio. Keith Carradine faz uma participação especial.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016233300 +0000" stop="20251016235600 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Amy se interessa por um dos ex-namorados burros de Penny. Raj e Wolowitz discutem para tentar determinar quem seria o melhor super heroi.</desc>
+		<date>2025-10-16</date>
+	</programme>
+	<programme channel="WARNER CHANNEL" start="20251016235600 +0000" stop="20251017000000 +0000">
+		<title lang="pt">The Big Bang Theory</title>
+		<desc lang="pt">Os rapazes convencem Zack a partir de um concurso de fantasias da Liga da Justiça.</desc>
+		<date>2025-10-16</date>
+	</programme>
 </tv>
