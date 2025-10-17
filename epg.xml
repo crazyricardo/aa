@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="epg.pw">
-  <channel id="WARNER">
+  <channel id="WARNER CHANNEL">
     <display-name lang="Brazil">São Paulo/SP  Warner Channel</display-name>
   </channel>
   <programme channel="WARNER" start="20251017002000 +0000" stop="20251017004300 +0000">
